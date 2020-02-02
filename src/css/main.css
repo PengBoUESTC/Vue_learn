@@ -1,0 +1,8 @@
+li {
+	border: 1px dashed;
+	margin: 5px
+}
+
+body {
+	background: url("../images/url_loader.jpg");
+}
